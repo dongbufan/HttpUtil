@@ -25,6 +25,7 @@ class HttpUtil
         $data = self::doPost($url,$optArr);
         return $data;
     }
+    
     /**
      * post请求
      * @param string $url
