@@ -1,5 +1,5 @@
 {
-    "name": "dongbufan/httputil",
+    "name": "sendHttp/httputil",
     "description": "send http",
     "type": "library",
     "license": "MIT",
@@ -9,6 +9,7 @@
             "email": "1025239819@qq.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "php": ">=7.0.0"
     },
